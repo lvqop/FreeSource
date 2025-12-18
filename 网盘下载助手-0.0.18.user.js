@@ -1,5 +1,5 @@
 // ==UserScript==
-// @description b站解析、度盘解析
+// @description Fix error
 // @namespace Tampermonkey
 // @name 网盘下载助手
 // @version 0.0.18
