@@ -1,5 +1,4 @@
 // ==UserScript==
-// @description Fix error
 // @namespace Tampermonkey
 // @name 网盘下载助手
 // @version 0.0.18
