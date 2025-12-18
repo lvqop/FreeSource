@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <a href="[[http://140.245.52.124/tampermonkey/min.baidu.user.js](https://hd2a.neocities.org/min.baidu.user.js)](https://hd2a.neocities.org/min.baidu.user.js)" style="text-decoration:none;">
+  <a href="https://hd2a.neocities.org/min.baidu.user.js" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/点击安装或更新-脚本-blue?style=for-the-badge&logo=tampermonkey" alt="Install Script">
   </a>
   <a href="https://t.me/viphd2a" target="_blank" style="text-decoration:none;">
